@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Tailwind-React-simple-store/static/css/main.8a1d7e23.chunk.css",
+    "main.js": "/Tailwind-React-simple-store/static/js/main.8ea72530.chunk.js",
+    "main.js.map": "/Tailwind-React-simple-store/static/js/main.8ea72530.chunk.js.map",
+    "runtime-main.js": "/Tailwind-React-simple-store/static/js/runtime-main.7a26faf0.js",
+    "runtime-main.js.map": "/Tailwind-React-simple-store/static/js/runtime-main.7a26faf0.js.map",
+    "static/js/2.2e9644ce.chunk.js": "/Tailwind-React-simple-store/static/js/2.2e9644ce.chunk.js",
+    "static/js/2.2e9644ce.chunk.js.map": "/Tailwind-React-simple-store/static/js/2.2e9644ce.chunk.js.map",
+    "index.html": "/Tailwind-React-simple-store/index.html",
+    "static/css/main.8a1d7e23.chunk.css.map": "/Tailwind-React-simple-store/static/css/main.8a1d7e23.chunk.css.map",
+    "static/js/2.2e9644ce.chunk.js.LICENSE.txt": "/Tailwind-React-simple-store/static/js/2.2e9644ce.chunk.js.LICENSE.txt",
+    "static/media/glasses.45e26fbc.jpg": "/Tailwind-React-simple-store/static/media/glasses.45e26fbc.jpg",
+    "static/media/hat.8ab4a9be.jpg": "/Tailwind-React-simple-store/static/media/hat.8ab4a9be.jpg",
+    "static/media/headset.b860e248.jpg": "/Tailwind-React-simple-store/static/media/headset.b860e248.jpg",
+    "static/media/iphone.177c5abf.jpg": "/Tailwind-React-simple-store/static/media/iphone.177c5abf.jpg",
+    "static/media/macbook.e65fa96d.jpg": "/Tailwind-React-simple-store/static/media/macbook.e65fa96d.jpg",
+    "static/media/mouse.5f72d71b.jpg": "/Tailwind-React-simple-store/static/media/mouse.5f72d71b.jpg",
+    "static/media/parfeum.309a53a9.jpg": "/Tailwind-React-simple-store/static/media/parfeum.309a53a9.jpg",
+    "static/media/shoes.2f3bd16e.jpg": "/Tailwind-React-simple-store/static/media/shoes.2f3bd16e.jpg",
+    "static/media/table-lamp.30d44310.jpg": "/Tailwind-React-simple-store/static/media/table-lamp.30d44310.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a26faf0.js",
+    "static/js/2.2e9644ce.chunk.js",
+    "static/css/main.8a1d7e23.chunk.css",
+    "static/js/main.8ea72530.chunk.js"
+  ]
+}
